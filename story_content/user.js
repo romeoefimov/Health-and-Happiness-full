@@ -2,116 +2,200 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6FKPWVXupwt":
+      case "5xTkcXwRtGD":
         Script1();
         break;
-      case "5kQbpNPOERn":
+      case "63zEiilzpng":
         Script2();
         break;
-      case "5zGSy5GyKvO":
+      case "6MokjSlFGD6":
         Script3();
         break;
-      case "6ZHOWmeerWH":
+      case "6QaNSdIuWlf":
         Script4();
         break;
-      case "5WqtATOi7aX":
+      case "5nlziIIKaKA":
         Script5();
         break;
-      case "5XMmQe0DVyN":
+      case "5n1yqqap52z":
         Script6();
         break;
-      case "5i3ZGL6XRaD":
+      case "61UrvO2zumr":
         Script7();
         break;
-      case "5f7vrJRgdxb":
+      case "6HzJ3zs2LQA":
         Script8();
         break;
-      case "6YHdw4yrOih":
+      case "5teP82zLpDo":
         Script9();
         break;
-      case "6CftzdH8uUr":
+      case "5pqRO7p6ofP":
         Script10();
         break;
-      case "6n8CNsp6m66":
+      case "5dCac5NyzsQ":
         Script11();
         break;
-      case "5qbe9SLiqQl":
+      case "5syX01cAbS0":
         Script12();
         break;
-      case "6K5hciQ2NxF":
+      case "6GrRhrt1kjE":
         Script13();
         break;
-      case "6pUpg2yBgES":
+      case "5kzMFRLUuRU":
         Script14();
         break;
-      case "5ryiq5uL0cI":
+      case "5WRmt9haGzJ":
         Script15();
         break;
-      case "5Z9P97fav0F":
+      case "6KwOEWL475D":
         Script16();
         break;
-      case "6NscyEtHUta":
+      case "6oF8N7in7as":
         Script17();
         break;
-      case "6RRYsrhUAge":
+      case "6jrFTSphgEz":
         Script18();
         break;
-      case "6UebrouN7RX":
+      case "69ySc5Hgwsu":
         Script19();
         break;
-      case "6J6t2aktSiv":
+      case "5dGzp4SNwR5":
         Script20();
         break;
-      case "64egrJC8mEx":
+      case "5pnQIAUuInA":
         Script21();
         break;
-      case "6oAUUtsMmX7":
+      case "5XsCizveFTW":
         Script22();
         break;
-      case "5gohfa65VI5":
+      case "6ajOfI1cUlV":
         Script23();
         break;
-      case "6GZ4zypwpIW":
+      case "6Q8d9r9k8AH":
         Script24();
         break;
-      case "5a8ffgEtaVm":
+      case "6Oble3Nvvw9":
         Script25();
         break;
-      case "5xdv17IHt4d":
+      case "60VaUDLaMpw":
         Script26();
         break;
-      case "6rFjIudDmGG":
+      case "61qgwVFkNRL":
         Script27();
         break;
-      case "5i4M1Obizo2":
+      case "5ykCZDerS9D":
         Script28();
         break;
-      case "66YOmFHt5CN":
+      case "6XdWz3S0i4A":
         Script29();
         break;
-      case "6NaIkDAU55i":
+      case "5oKyi0ED40D":
         Script30();
         break;
-      case "6fubyXlHR8x":
+      case "65NF0zYvBRq":
         Script31();
         break;
-      case "6EUfEhqo90T":
+      case "6AXFtsQm8Lk":
         Script32();
         break;
-      case "5Z4hFuZgnt3":
+      case "6A6feHPGLbo":
         Script33();
         break;
-      case "6HLi0oeKNCg":
+      case "6MZgvPD1eBF":
         Script34();
         break;
-      case "5oY6cRhhktZ":
+      case "5V1pPrqPTkn":
         Script35();
         break;
-      case "5uSBGSU2cs9":
+      case "69qInoM3Mid":
         Script36();
         break;
-      case "6ITDwQ3DjMq":
+      case "5WA5ojTHg2T":
         Script37();
+        break;
+      case "6g1sgC3qoFQ":
+        Script38();
+        break;
+      case "5xYV7IJ5vdz":
+        Script39();
+        break;
+      case "6qFSLC6EgiX":
+        Script40();
+        break;
+      case "6BbpxR0Xj7l":
+        Script41();
+        break;
+      case "68QHIQn5CpW":
+        Script42();
+        break;
+      case "6bQV20QkRT1":
+        Script43();
+        break;
+      case "5YdzBNW2Nox":
+        Script44();
+        break;
+      case "5h3mjAavrMl":
+        Script45();
+        break;
+      case "5toou4OK5pH":
+        Script46();
+        break;
+      case "6LKrOrXI7ge":
+        Script47();
+        break;
+      case "5jr7gSGUNiH":
+        Script48();
+        break;
+      case "6MNf73jrWoL":
+        Script49();
+        break;
+      case "6WIBHopWdMc":
+        Script50();
+        break;
+      case "6GxOi2Tx8AQ":
+        Script51();
+        break;
+      case "6DrkPREYQrE":
+        Script52();
+        break;
+      case "6oNnFUAoK5O":
+        Script53();
+        break;
+      case "5ffPjL3uTKP":
+        Script54();
+        break;
+      case "5Y7Zq2VVdPJ":
+        Script55();
+        break;
+      case "673oFn4zAGj":
+        Script56();
+        break;
+      case "61h9raZ5PKd":
+        Script57();
+        break;
+      case "5eWIy36YNsP":
+        Script58();
+        break;
+      case "6lSEqdAmZXy":
+        Script59();
+        break;
+      case "5j9yhp9RLJM":
+        Script60();
+        break;
+      case "652v7gMnxLD":
+        Script61();
+        break;
+      case "6aq3yB4tmMC":
+        Script62();
+        break;
+      case "5zTYOUYLfIU":
+        Script63();
+        break;
+      case "5ZJk4BhQZer":
+        Script64();
+        break;
+      case "6f5cdDQ4qBD":
+        Script65();
         break;
   }
 }
@@ -128,7 +212,7 @@ function Script2()
 
 function Script3()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script4()
@@ -148,7 +232,7 @@ function Script6()
 
 function Script7()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script8()
@@ -158,7 +242,7 @@ function Script8()
 
 function Script9()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script10()
@@ -168,7 +252,7 @@ function Script10()
 
 function Script11()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script12()
@@ -178,7 +262,7 @@ function Script12()
 
 function Script13()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script14()
@@ -188,7 +272,7 @@ function Script14()
 
 function Script15()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script16()
@@ -198,7 +282,7 @@ function Script16()
 
 function Script17()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script18()
@@ -208,7 +292,7 @@ function Script18()
 
 function Script19()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script20()
@@ -218,17 +302,17 @@ function Script20()
 
 function Script21()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script22()
 {
-  window.print();
+  FullscreenMode('slide');
 }
 
 function Script23()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script24()
@@ -238,7 +322,7 @@ function Script24()
 
 function Script25()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script26()
@@ -248,17 +332,17 @@ function Script26()
 
 function Script27()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script28()
 {
-  window.print();
+  FullscreenMode('slide');
 }
 
 function Script29()
 {
-  window.print();
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script30()
@@ -268,7 +352,7 @@ function Script30()
 
 function Script31()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script32()
@@ -278,7 +362,7 @@ function Script32()
 
 function Script33()
 {
-  FullscreenMode('slide');
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script34()
@@ -288,15 +372,155 @@ function Script34()
 
 function Script35()
 {
-  window.print();
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
 }
 
 function Script36()
 {
-  window.print();
+  FullscreenMode('slide');
 }
 
 function Script37()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script38()
+{
+  FullscreenMode('slide');
+}
+
+function Script39()
+{
+  window.print();
+}
+
+function Script40()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script41()
+{
+  FullscreenMode('slide');
+}
+
+function Script42()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script43()
+{
+  FullscreenMode('slide');
+}
+
+function Script44()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script45()
+{
+  FullscreenMode('slide');
+}
+
+function Script46()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script47()
+{
+  FullscreenMode('slide');
+}
+
+function Script48()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script49()
+{
+  FullscreenMode('slide');
+}
+
+function Script50()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script51()
+{
+  window.print();
+}
+
+function Script52()
+{
+  window.print();
+}
+
+function Script53()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script54()
+{
+  FullscreenMode('slide');
+}
+
+function Script55()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script56()
+{
+  FullscreenMode('slide');
+}
+
+function Script57()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script58()
+{
+  FullscreenMode('slide');
+}
+
+function Script59()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script60()
+{
+  FullscreenMode('slide');
+}
+
+function Script61()
+{
+  if(void 0===window.stencilfullscreen){window.stencilfullscreen=!0;var player=GetPlayer(),xhttp=new XMLHttpRequest,targlink="https://cluelabs.com/stencil/display/widget-full-screen-display?chart=MzgxfDE3ODB8YWQ5NDk4Zjk2NTI5OTE3YThkYTY1NDNkZmIxOGVjODk";xhttp.onreadystatechange=function(){4==this.readyState&&200==this.status&&""!=this.responseText&&(eval(this.responseText),player.SetVar("stencilrendered",parseInt(player.GetVar("stencilrendered"))+1))},xhttp.open("GET",targlink,!0),xhttp.send()}
+}
+
+function Script62()
+{
+  FullscreenMode('slide');
+}
+
+function Script63()
+{
+  window.print();
+}
+
+function Script64()
+{
+  window.print();
+}
+
+function Script65()
 {
   window.print();
 }
